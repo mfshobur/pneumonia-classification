@@ -27,7 +27,7 @@ Open the web if already running at [http://localhost:5000](http://localhost:5000
 
 ## Screenshots
 
-![alt text](image.png)
+![Screenshots](screenshots.png)
 
 ## License
 
